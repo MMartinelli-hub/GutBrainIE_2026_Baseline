@@ -1,0 +1,28 @@
+# Python version requirement
+# Requires Python 3.10
+
+# GLiNER requirements
+gliner==0.1.12
+#torch==2.4.1
+transformers>=4.38.2,<=4.45.2
+huggingface_hub>=0.21.4
+onnxruntime-gpu
+sentencepiece
+tqdm
+
+# ATLOP requirements
+numpy
+opt-einsum==3.3.0
+wandb
+ujson
+tqdm
+pandas
+
+# NEL requirements
+requests
+beautifulsoup4
+libchebipy
+txtai
+
+# Utils requirements
+nltk
