@@ -3,6 +3,5 @@ Annotations/Train
 Articles/csv_format
 Articles/json_format
 Articles/txt_format
-BaselineModels/*.zip
 produce_alternative_formats.ipynb
 TestData
